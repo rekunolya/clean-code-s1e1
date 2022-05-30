@@ -18,9 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
+
   .matrix-eisenhower { 
     text-align: center;
   }
+  
 }
 .action-list {
   display: block;
