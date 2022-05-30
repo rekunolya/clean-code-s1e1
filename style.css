@@ -17,7 +17,7 @@ body {
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .matrix-eisenhower { 
     text-align: center;
@@ -129,7 +129,7 @@ li > label {
 }
 
 .task-list > input[type="text"] {
-  width: 226px
+  width: 226px;
 }
 
 .delete img {
@@ -150,7 +150,7 @@ li > label {
 
 /* Edit Task */
 ul li input[type="text"] {
-  display: none
+  display: none;
 }
 
 .edit-mode input[type="text"] {
