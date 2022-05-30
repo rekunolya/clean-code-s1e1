@@ -22,7 +22,7 @@ body {
   .matrix-eisenhower { 
     text-align: center;
   }
-  
+
 }
 .action-list {
   display: block;
@@ -39,16 +39,16 @@ body {
 }
 
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 li, h3 {
-  list-style:none;
+  list-style: none;
 }
 
 input,button{
-  outline:none;
+  outline: none;
 }
 
 button {
@@ -159,5 +159,5 @@ ul li input[type="text"] {
 }
 
 .edit-mode label {
-  display:none;
+  display: none;
 }
